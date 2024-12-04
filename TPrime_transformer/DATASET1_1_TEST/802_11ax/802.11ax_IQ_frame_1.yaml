@@ -1,0 +1,9 @@
+# ---------------------------------------------------------------------,
+# Waveform Configuration]
+# ---------------------------------------------------------------------,]
+standard: "802.11ax_matlab"
+modulation: "OFDMA"
+MCS: "16-QAM(1/2 rate)"
+bandwidth:  20000000
+sampling_rate:  20000000
+PSDU_length_bytes: 1036
